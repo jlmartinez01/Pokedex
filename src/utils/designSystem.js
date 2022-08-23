@@ -1,0 +1,5 @@
+export const colorPrimario='#EB5757'
+export const colorSecundario='#ffffff'
+export const colorTercero='#000000'
+export const colorCuarto='#828282'
+export const colorQuinto='#27AE60'
